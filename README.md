@@ -6,4 +6,5 @@ Ejecutamos el finalrecon dando resultados individuales del cual $linea es la lec
 Output:
 
 test.com_finalrecon.txt
+
 pepe.com_finalrecon.txt
